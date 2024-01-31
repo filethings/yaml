@@ -1,0 +1,8 @@
+prop1:
+  prop2:
+    value1: "Value 1"
+
+arrprop1:
+  - "a"
+  - "b"
+  - "c"
